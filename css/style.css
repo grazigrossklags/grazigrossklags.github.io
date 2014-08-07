@@ -6,3 +6,10 @@ font-family: 'Cabin', sans-serif;
     max-width: 100%;
     margin: auto;
 }
+ul {
+   list-style: none;
+}
+.main-ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
