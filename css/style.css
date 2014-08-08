@@ -47,6 +47,6 @@ html, body {
 }
 .social-links {
     float: right;
-    font-size: 30px;
-    background-color: #000000;
+    font-size: 22px;
+    color: #000000;
 }
