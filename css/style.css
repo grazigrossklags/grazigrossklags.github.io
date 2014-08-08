@@ -48,6 +48,7 @@ html, body {
 .social-links {
     float: right;
     font-size: 22px;
+    margin-top: 13px;
 }
 .main-footer p { 
     float: left; 
