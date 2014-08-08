@@ -48,5 +48,10 @@ html, body {
 .social-links {
     float: right;
     font-size: 22px;
+}
+.main-footer p { 
+    float: left; 
+}
+.the-icons{
     color: #000000;
 }
