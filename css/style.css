@@ -45,3 +45,8 @@ html, body {
    margin: 0;
    padding: 0;
 }
+.social-links {
+    float: right;
+    font-size: 30px;
+    background-color: #000000;
+}
