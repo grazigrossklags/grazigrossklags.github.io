@@ -6,6 +6,7 @@ font-family: 'Questrial', sans-serif;
     max-width: 100%;
     margin: auto;
     padding: 0 20px;
+     -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
 ul {
    list-style: none;
