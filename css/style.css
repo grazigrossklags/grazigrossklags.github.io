@@ -5,6 +5,7 @@ font-family: 'Questrial', sans-serif;
     width: 960px;
     max-width: 100%;
     margin: auto;
+    padding: 0 20px;
 }
 ul {
    list-style: none;
@@ -68,5 +69,12 @@ html, body {
     float: right;
     position: relative;
     top: 30px;
-    
 }
+* {
+    margin: 0;
+    padding: 0;
+  }
+ 
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+ }
