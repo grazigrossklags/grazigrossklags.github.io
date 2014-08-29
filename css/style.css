@@ -61,6 +61,9 @@ html, body {
 .the-icons{
     color: #69D2E7;
 }
+.the-icons:hover{
+    color: #000000;
+}
 .main-ul{
     margin: 0;
     padding: 0;
@@ -74,3 +77,6 @@ html, body {
     position: relative;
     top: 30px
 }
+.main-nav a:hover {
+             color: #69D2E7;
+         }
