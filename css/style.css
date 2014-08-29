@@ -16,6 +16,10 @@ ul {
 }
 a {
    text-decoration: none;
+    color: black;
+}
+.logo a{
+    color: #69D2E7;
 }
 body {
     display: -webkit-box;
@@ -55,7 +59,7 @@ html, body {
     float: left; 
 }
 .the-icons{
-    color: #000000;
+    color: #69D2E7;
 }
 .main-ul{
     margin: 0;
