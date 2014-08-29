@@ -56,3 +56,10 @@ html, body {
 .the-icons{
     color: #000000;
 }
+.main-ul{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-decoration: bold;
+}
