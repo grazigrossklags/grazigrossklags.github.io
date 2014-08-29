@@ -61,4 +61,12 @@ html, body {
     padding: 0;
 }
 .logo{
+    float: left;
+    display: inline-block;
+}
+.main-nav {
+    float: right;
+    position: relative;
+    top: 30px;
+    
 }
