@@ -80,3 +80,7 @@ html, body {
 .main-nav a:hover {
              color: #69D2E7;
          }
+.main-img{
+    height: auto;
+    max-width: 100%;
+}
